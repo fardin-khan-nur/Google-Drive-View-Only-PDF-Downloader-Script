@@ -212,6 +212,5 @@ It only processes **content already rendered in your browser session**.
 <p align="center">
   Made with ☕ & JavaScript  
 </p>
-```
 
 
