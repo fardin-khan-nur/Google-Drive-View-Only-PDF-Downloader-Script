@@ -43,15 +43,15 @@
 - Scroll **all the way down**
 - Make sure **every page is fully loaded**
 
-### 3️⃣ Open Developer Console
+### 3️⃣ Open Developer Console or Inspect element
 - Press:
   - **Windows / Linux:** `Ctrl + Shift + I`
   - **Mac:** `Cmd + Option + I`
   - **Or:** `F12`
 - Go to the **Console** tab
 
-> ⚠️ **Users:**  
-> Type <p color="red"><b>`allow pasting`</b></p> and press ENTER, if you are using Chrome and cannot paste any code directly in the console tab,:
+> ⚠️ **In Console:**  
+> Type <span style="color:red">allow pasting</span> and press ENTER, if you are using Chrome and cannot paste any code directly in the console tab,:
 > Copy and paste script below on console tab,
 ```js
 
