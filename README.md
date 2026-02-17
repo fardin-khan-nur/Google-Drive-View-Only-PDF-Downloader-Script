@@ -50,7 +50,7 @@
   - **Or:** `F12`
 - Go to the **Console** tab
 
-###> ⚠️ **In Console:**  
+### ⚠️ **In Console:**  
 > Type <p>**`allow pasting`**</p> and press ENTER, if you are using Chrome and cannot paste any code directly in the console tab.<br></br>
 > Copy and paste script below on console tab:
 
