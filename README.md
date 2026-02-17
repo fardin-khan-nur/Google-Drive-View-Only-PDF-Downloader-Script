@@ -51,7 +51,7 @@
 - Go to the **Console** tab
 
 > ⚠️ **In Console:**  
-> Type <span style="color:red">allow pasting</span> and press ENTER, if you are using Chrome and cannot paste any code directly in the console tab,:
+> Type <p>allow pasting</p> and press ENTER, if you are using Chrome and cannot paste any code directly in the console tab,:
 > Copy and paste script below on console tab,
 ```js
 
