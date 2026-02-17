@@ -153,61 +153,65 @@ allow pasting
 })();
 ```
 
-4️⃣ Paste the Script
+### 4️⃣ Paste the Script
 
-Copy the script
+* Copy the script
+* Paste it into the console
+* Press **ENTER**
 
-Paste it into the console
+### 5️⃣ Wait & Download
 
-Press ENTER
+* The console will show progress
+* PDF will download automatically when finished 🎉
 
-5️⃣ Wait & Download
+---
 
-The console will show progress
+## 🧠 Script Behavior Notes
 
-PDF will download automatically when finished 🎉
+* ⏳ Processing speed depends on:
 
-🧠 Script Behavior Notes
+  * Number of pages
+  * Page resolution
+  * Device performance
+* 📐 Each page keeps its **original width, height, and orientation**
+* 📝 Output filename is taken from the PDF title
 
-⏳ Processing speed depends on:
+---
 
-Number of pages
+## ⚠️ Important Notice (Read This)
 
-Page resolution
+> **This project is for educational and personal use only.**
 
-Device performance
+* Respect **copyright laws**
+* Do **not** use this tool to:
 
-📐 Each page keeps its original width, height, and orientation
+  * Violate content ownership
+  * Redistribute paid or restricted material
+* The author is **not responsible** for misuse
 
-📝 Output filename is taken from the PDF title
+✅ **Use wisely. Use ethically.**
 
-⚠️ Important Notice (Read This)
+---
 
-This project is for educational and personal use only.
+## 🛠️ Technologies Used
 
-Respect copyright laws
+* **JavaScript (ES6)**
+* **Canvas API**
+* **jsPDF**
+* **Browser Developer Tools**
 
-Do not use this tool to:
+---
 
-Violate content ownership
+## 📌 Disclaimer
 
-Redistribute paid or restricted material
+This repository does **not** bypass Google security systems.
+It only processes **content already rendered in your browser session**.
 
-The author is not responsible for misuse
+---
 
-✅ Use wisely. Use ethically.
+<p align="center">
+  Made with ☕ & JavaScript  
+</p>
+```
 
-🛠️ Technologies Used
 
-JavaScript (ES6)
-
-Canvas API
-
-jsPDF
-
-Browser Developer Tools
-📌 Disclaimer
-
-This repository does not bypass Google security systems.
-It only processes content already rendered in your browser session.
-<p align="center"> Made with ☕ & JavaScript </p> ```
