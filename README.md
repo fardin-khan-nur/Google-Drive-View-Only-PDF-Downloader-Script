@@ -47,12 +47,13 @@
 - Press:
   - **Windows / Linux:** `Ctrl + Shift + I`
   - **Mac:** `Cmd + Option + I`
+  - **Or:** `F12`
 - Go to the **Console** tab
 
-> ⚠️ **Chrome users:**  
-> Type the following and press **ENTER**:
+> ⚠️ **Users:**  
+> Type `allow pasting` and press ENTER, if you are using Chrome and cannot paste any code directly in the console tab,:
+> Copy and paste script below on console tab,
 ```js
-allow pasting
 
 (function () {
   console.log("Loading script ...");
